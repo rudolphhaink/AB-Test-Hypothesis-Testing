@@ -26,6 +26,15 @@ Ziel ist es zu prüfen, ob sich die durchschnittlichen Ausgaben von zwei Gruppen
 - **Nullhypothese (H₀):** Die durchschnittlichen Ausgaben der Gruppen A und B sind gleich.
 - **Alternativhypothese (H₁):** Die durchschnittlichen Ausgaben unterscheiden sich.
 
+--
+
+## 📁 Projektstruktur
+
+```plaintext
+shopping-ab-test/
+├── AB-Test-Hypothesis-Testing.ipynb   # Hauptanalyse als Jupyter Notebook
+└── README.md                # Projektbeschreibung und Dokumentation
+
 ---
 
 ## 📈 Ergebnisse
