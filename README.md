@@ -30,8 +30,8 @@ Ziel ist es zu prüfen, ob sich die durchschnittlichen Ausgaben von zwei Gruppen
 
 ## 📁 Projektstruktur
 
-├── AB-Test-Hypothesis-Testing.ipynb   # Hauptanalyse als Jupyter Notebook
-└── README.md                # Projektbeschreibung und Dokumentation
+AB-Test-Hypothesis-Testing.ipynb   # Hauptanalyse als Jupyter Notebook  
+README.md                # Projektbeschreibung und Dokumentation  
 
 ---
 
